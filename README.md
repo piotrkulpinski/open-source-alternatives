@@ -9,19 +9,19 @@ An awesome list of open source alternatives to proprietary software, maintained 
 
 OpenAlternative is supported by these incredible partners and sponsors. [Become a sponsor →](https://openalternative.co/advertise)
 
-- [Postiz](https://go.openalternative.co/postiz?utm_source=openalternative.co) - The All-in-One agentic social media scheduling tool
-- [InfluxDB](https://www.influxdata.com/lp/influxdb-database/?utm_source=vendor&utm_medium=referral&utm_campaign=2026-04_spnsr-content_open_alternative) - The purpose-built time series platform for high-velocity ingestion and real-time queries at scale.
-- [Highseat](https://highseat.com/?utm_source=openalternative.co&utm_medium=ad&utm_campaign=launch) - Cookieless analytics with revenue by source.
-- [Bright Data](https://brightdata.com/ai?utm_source=brand&utm_campaign=brnd-mkt_partner_openalternative) - Web data for AI agents and apps. Built-in unblocking, proxies, and ready-made APIs.
-- [Windshift](https://windshift.sh?utm_source=openalternative.co) - The self-hosted platform that replaces Jira.
 - [Sent](https://www.sent.dm/en?utm_source=openalternative.co) - A unified API for sending messages across SMS, RCS, and apps like WhatsApp.
-- [Sent](https://www.sent.dm/en?utm_source=openalternative.co) - Messaging Infrastructure for Developers. One API for SMS, WhatsApp, and RCS across 190+ countries.
-- [CodeRabbit](https://coderabbit.link/openalternative?utm_source=openalternative.co) - The leading AI Code Review platform. Ship better quality code in 50% less time, with 90% fewer bugs.
-- [c15t](https://c15t.com?utm_source=openalternative.co) - Open-source cookie banner, built for control and lightening fast modern web apps.
 - [Openlane](https://www.theopenlane.io?utm_source=openalternative.co) - Open-source, developer-first platform for automated compliance, risk management, and built-in Trust Center.
+- [c15t](https://c15t.com?utm_source=openalternative.co) - Open-source cookie banner, built for control and lightening fast modern web apps.
 - [Docmost](https://docmost.com/?utm_source=openalternative.co&utm_campaign=open-alternative1) - Open-source wiki software with real-time collaboration, diagrams, AI, SSO, RBAC permissions and more.
+- [Postiz](https://go.openalternative.co/postiz?utm_source=openalternative.co) - The All-in-One agentic social media scheduling tool
+- [Sent](https://www.sent.dm/en?utm_source=openalternative.co) - Messaging Infrastructure for Developers. One API for SMS, WhatsApp, and RCS across 190+ countries.
 - [Stellar Hosted](https://www.stellarhosted.com/?utm_source=OpenAlternative&utm_medium=Sponsored&utm_campaign=Directory&utm_content=hosting_card) - Managed Open Source software hosting in the EU: secure, compliant, fast.
+- [Highseat](https://highseat.com/?utm_source=openalternative.co&utm_medium=ad&utm_campaign=launch) - Cookieless analytics with revenue by source.
+- [InfluxDB](https://www.influxdata.com/lp/influxdb-database/?utm_source=vendor&utm_medium=referral&utm_campaign=2026-04_spnsr-content_open_alternative) - The purpose-built time series platform for high-velocity ingestion and real-time queries at scale.
+- [CodeRabbit](https://coderabbit.link/openalternative?utm_source=openalternative.co) - The leading AI Code Review platform. Ship better quality code in 50% less time, with 90% fewer bugs.
+- [Windshift](https://windshift.sh?utm_source=openalternative.co) - The self-hosted platform that replaces Jira.
 - [Capture](https://capture.page?utm_source=openalternative.co) - Capture screenshots, generate PDFs, scrape content, extract metadata, and automate browsers with one API.
+- [Bright Data](https://brightdata.com/ai?utm_source=brand&utm_campaign=brnd-mkt_partner_openalternative) - Web data for AI agents and apps. Built-in unblocking, proxies, and ready-made APIs.
 
 ## Contents
 
@@ -36,8 +36,8 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
   - [Document Management & E-Signatures](#document-management--e-signatures)
   - [Marketing & Customer Engagement](#marketing--customer-engagement)
   - [Education](#education)
-  - [Forms & Surveys](#forms--surveys)
   - [Scheduling & Event Management](#scheduling--event-management)
+  - [Forms & Surveys](#forms--surveys)
   - [Compliance & Risk Management](#compliance--risk-management)
   - [Legal](#legal)
   - [E-commerce Platforms](#e-commerce-platforms)
@@ -98,8 +98,8 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Productivity & Utilities](#productivity--utilities)
   - [Office Suites](#office-suites)
   - [Time & Task Management](#time--task-management)
-  - [Email & Communication](#email--communication)
   - [Browsers & Extensions](#browsers--extensions)
+  - [Email & Communication](#email--communication)
   - [Bookmark & Content Management](#bookmark--content-management)
   - [Password & Secret Management](#password--secret-management)
   - [Screen Capture & Recording](#screen-capture--recording)
@@ -133,17 +133,17 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [GPT4All](https://openalternative.co/gpt4all) - Run open-source AI models privately on your own device `MIT` `⭐ 77K`
 - [Grepture](https://openalternative.co/grepture) - Trace, evaluate, and protect every LLM call in one SDK `AGPL-3.0` `⭐ 12`
 - [Helicone](https://openalternative.co/helicone) - Build reliable AI apps with comprehensive observability `Apache-2.0` `⭐ 6.3K`
-- [Jan](https://openalternative.co/jan) - Run AI models locally or connect to cloud, privately `Apache-2.0` `⭐ 45K`
+- [Jan](https://openalternative.co/jan) - Run AI models locally or connect to cloud, privately `Apache-2.0` `⭐ 46K`
 - [Laminar](https://openalternative.co/laminar) - AI-powered platform for engineering LLM products `Apache-2.0` `⭐ 3.5K`
 - [Langfuse](https://openalternative.co/langfuse) - Open source LLM engineering platform for AI-powered applications `MIT` `⭐ 37K`
 - [LangWatch](https://openalternative.co/langwatch) - Simulation-based testing and evaluation for AI agents `Apache-2.0` `⭐ 5K`
 - [Latitude](https://openalternative.co/latitude) - Full observability for AI agents in production `MIT` `⭐ 4.7K`
-- [llama.cpp](https://openalternative.co/llama-cpp) - Run LLMs locally with minimal setup, maximum hardware support `MIT` `⭐ 133K`
+- [llama.cpp](https://openalternative.co/llama-cpp) - Run LLMs locally with minimal setup, maximum hardware support `MIT` `⭐ 134K`
 - [LocalAI](https://openalternative.co/localai) - Self-hosted AI runtime for text, voice, vision, and agents `MIT` `⭐ 50K`
 - [mlop](https://openalternative.co/mlop) - Experiment tracking platform for ML teams `Apache-2.0` `⭐ 395`
 - [Ollama](https://openalternative.co/ollama) - Run open-source LLMs locally on your own machine `MIT` `⭐ 186K`
 - [Open-Notebook](https://openalternative.co/open-notebook) - AI-powered research notebook with full privacy control `MIT` `⭐ 42K`
-- [OpenLIT ](https://openalternative.co/openlit) - Monitor, debug, and scale LLM applications with ease `Apache-2.0` `⭐ 2.9K`
+- [OpenLIT ](https://openalternative.co/openlit) - Monitor, debug, and scale LLM applications with ease `Apache-2.0` `⭐ 3K`
 - [OpenLLMetry](https://openalternative.co/openllmetry) - Monitor LLM performance with open-source observability `Apache-2.0` `⭐ 7.5K`
 - [Spanlens](https://openalternative.co/spanlens) - LLM observability: cost, latency, and traces in one place `MIT` `⭐ 13`
 - [vLLM](https://openalternative.co/vllm) - High-throughput, memory-efficient serving engine for LLMs `Apache-2.0` `⭐ 96K`
@@ -151,14 +151,14 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 ### AI Security & Privacy
 
 - [Proxed AI](https://openalternative.co/proxed-ai) - Secure AI API management for iOS apps with DeviceCheck `AGPL-3.0` `⭐ 9`
-- [VerifyWise](https://openalternative.co/verifywise) - AI governance made simple, secure, and compliant `AGPL-3.0` `⭐ 373`
+- [VerifyWise](https://openalternative.co/verifywise) - AI governance made simple, secure, and compliant `AGPL-3.0` `⭐ 374`
 
 ### AI Development Platforms
 
 - **[Parlant](https://openalternative.co/parlant)** - Structured control layer for customer-facing AI agents `Apache-2.0` `⭐ 18K`
 - [ACI.dev](https://openalternative.co/aci-dev) - Build reliable AI agents with unified tool integration `Apache-2.0` `⭐ 4.9K`
 - [Agent Zero](https://openalternative.co/agent-zero) - Agentic AI framework that runs, learns, and self-corrects `MIT` `⭐ 20K`
-- [AgentOS](https://openalternative.co/agentos) - TypeScript framework for building autonomous AI agents `Apache-2.0` `⭐ 682`
+- [AgentOS](https://openalternative.co/agentos) - TypeScript framework for building autonomous AI agents `Apache-2.0` `⭐ 684`
 - [Agno](https://openalternative.co/agno) - Model-agnostic platform for building intelligent AI agents `Apache-2.0` `⭐ 43K`
 - [AutoGPT](https://openalternative.co/autogpt) - Build and run AI agents that handle recurring work for you `Other` `⭐ 188K`
 - [Beam](https://openalternative.co/beam) - Serverless GPU compute with sub-second cold starts `AGPL-3.0` `⭐ 1.8K`
@@ -167,11 +167,11 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [ByteChef](https://openalternative.co/bytechef) - Build AI agents and automate complex workflows seamlessly `Apache-2.0` `⭐ 1.1K`
 - [CodeZero](https://openalternative.co/codezero) - Build complex automations without code, deploy anywhere with full control `MIT` `⭐ 56`
 - [CopilotKit](https://openalternative.co/copilotkit) - Build AI copilots for your product in hours, not months `MIT` `⭐ 39K`
-- [Dify](https://openalternative.co/dify) - Build and deploy AI agents and RAG pipelines visually `⭐ 160K`
+- [Dify](https://openalternative.co/dify) - Build and deploy AI agents and RAG pipelines visually `⭐ 161K`
 - [Dograh](https://openalternative.co/dograh) - Self-hostable voice agent platform with full model control `BSD-2-Clause` `⭐ 6K`
 - [E2B](https://openalternative.co/e2b) - Secure cloud environments for enterprise AI agents `Apache-2.0` `⭐ 15K`
 - [Envoy AI Gateway](https://openalternative.co/envoy-ai-gateway) - Route GenAI traffic with confidence using open source `Apache-2.0` `⭐ 2.4K`
-- [Giselle](https://openalternative.co/giselle) - Build and deploy AI agents through visual workflows `Apache-2.0` `⭐ 559`
+- [Giselle](https://openalternative.co/giselle) - Build and deploy AI agents through visual workflows `Apache-2.0` `⭐ 560`
 - [Goose](https://openalternative.co/goose) - General-purpose AI agent for code, workflows, and more `Apache-2.0` `⭐ 56K`
 - [Hermes Agent](https://openalternative.co/hermes-agent) - Desktop AI agent with persistent memory across platforms `MIT` `⭐ 261K`
 - [Hexabot](https://openalternative.co/hexabot) - Self-hosted AI agents and workflows across any channel `AGPL-3.0` `⭐ 1.2K`
@@ -183,18 +183,18 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [LiteLLM](https://openalternative.co/litellm) - LLM gateway for auth, load balancing, and spend tracking `⭐ 63K`
 - [LiveKit](https://openalternative.co/livekit) - Full-stack platform for voice, video, and physical AI agents `Apache-2.0` `⭐ 22K`
 - [LLM Gateway](https://openalternative.co/llm-gateway) - Unified API for all LLM providers with analytics `MIT` `⭐ 1.7K`
-- [LobeChat](https://openalternative.co/lobechat) - Manage, build, and run AI agent teams around the clock `⭐ 84K`
-- [Mem0](https://openalternative.co/mem0) - Persistent memory layer for AI agents and apps `Apache-2.0` `⭐ 68K`
+- [LobeHub](https://openalternative.co/lobechat) - AI agents that work inside your team chats and learn over time `Other` `⭐ 84K`
+- [Mem0](https://openalternative.co/mem0) - Persistent memory layer for AI agents and apps `Apache-2.0` `⭐ 69K`
 - [Multica](https://openalternative.co/multica) - Project management for teams mixing humans and AI agents `⭐ 55K`
 - [Nango](https://openalternative.co/nango) - Build product integrations with 500+ APIs in hours `Elastic-2.0` `⭐ 13K`
 - [nanobot](https://openalternative.co/nanobot) - Self-hosted AI agent for chat, automation, and workflows `MIT` `⭐ 50K`
 - [NemoClaw](https://openalternative.co/nemoclaw) - Open blueprints for governed, always-on AI agents `Apache-2.0` `⭐ 23K`
 - [Omnara](https://openalternative.co/omnara) - One API to deploy and run agents on any model or machine `Apache-2.0` `⭐ 3.4K`
-- [OpenComputer](https://openalternative.co/opencomputer) - Persistent cloud VMs that hibernate and wake in seconds `Apache-2.0` `⭐ 584`
+- [OpenComputer](https://openalternative.co/opencomputer) - Persistent cloud VMs that hibernate and wake in seconds `Apache-2.0` `⭐ 586`
 - [OpenWork](https://openalternative.co/openwork) - Multi-model AI workspace with org-wide skill sharing `MIT` `⭐ 24K`
-- [Paperclip](https://openalternative.co/paperclip) - Org chart, budgets, and governance for AI agent teams `MIT` `⭐ 111K`
+- [Paperclip](https://openalternative.co/paperclip) - Org chart, budgets, and governance for AI agent teams `MIT` `⭐ 112K`
 - [Portkey AI Gateway](https://openalternative.co/portkey-ai-gateway) - Complete production stack for AI teams `MIT` `⭐ 13K`
-- [Rivet](https://openalternative.co/rivet) - Build stateful backends with in-memory actors `Apache-2.0` `⭐ 6.6K`
+- [Rivet](https://openalternative.co/rivet) - Build stateful backends with in-memory actors `Apache-2.0` `⭐ 6.8K`
 - [Tiledesk](https://openalternative.co/tiledesk) - No-code platform to build AI agents and automate support `MIT` `⭐ 15`
 - [ZeroClaw](https://openalternative.co/zeroclaw) - Self-hosted AI agent with 70+ providers and 30+ channels `Apache-2.0` `⭐ 33K`
 
@@ -218,14 +218,13 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Hermes Agent](https://openalternative.co/hermes-agent) - Desktop AI agent with persistent memory across platforms `MIT` `⭐ 261K`
 - [Inbox Zero](https://openalternative.co/inboxzero) - AI email assistant that automates, organizes, and declutters `AGPL-3.0` `⭐ 13K`
 - [IronClaw](https://openalternative.co/ironclaw) - AI agent runtime with encrypted enclaves for your secrets `Apache-2.0` `⭐ 13K`
-- [Jan](https://openalternative.co/jan) - Run AI models locally or connect to cloud, privately `Apache-2.0` `⭐ 45K`
-- [Jarvis](https://openalternative.co/jarvis) - Dictate faster and control your Mac with voice `MIT` `⭐ 672`
+- [Jan](https://openalternative.co/jan) - Run AI models locally or connect to cloud, privately `Apache-2.0` `⭐ 46K`
+- [Jarvis](https://openalternative.co/jarvis) - Dictate faster and control your Mac with voice `MIT` `⭐ 674`
 - [Khoj](https://openalternative.co/khoj) - AI second brain for research, automation, and personal agents `AGPL-3.0` `⭐ 38K`
 - [Leon](https://openalternative.co/leon) - Your open-source personal assistant for server automation `MIT` `⭐ 18K`
 - [LibreChat](https://openalternative.co/librechat) - One interface for all your AI models and conversations `MIT` `⭐ 47K`
 - [Lightpanda](https://openalternative.co/lightpanda) - Fast, AI-native web browser built for automation and scraping `AGPL-3.0` `⭐ 41K`
-- [LobeChat](https://openalternative.co/lobechat) - Manage, build, and run AI agent teams around the clock `⭐ 84K`
-- [MausBot](https://openalternative.co/mausbot) - A team of AI agents in a chat app, on your own machine `Apache-2.0` `⭐ 13K`
+- [MausBot](https://openalternative.co/mausbot) - A team of AI agents in a chat app, on your own machine `Apache-2.0` `⭐ 15K`
 - [MaxKB](https://openalternative.co/maxkb) - AI assistant that enhances enterprise knowledge management `GPL-3.0` `⭐ 23K`
 - [Meetily](https://openalternative.co/meetily) - Local AI meeting transcription with zero data leaving your device `MIT` `⭐ 32K`
 - [Minutes](https://openalternative.co/minutes) - Local meeting recorder that keeps your audio off the cloud `MIT` `⭐ 1.6K`
@@ -235,19 +234,19 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Onyx](https://openalternative.co/onyx) - Unified AI-powered enterprise search across company data `MIT` `⭐ 33K`
 - [Open WebUI](https://openalternative.co/open-webui) - One interface for every AI model you run or connect `BSD-3-Clause` `⭐ 158K`
 - [Open-Notebook](https://openalternative.co/open-notebook) - AI-powered research notebook with full privacy control `MIT` `⭐ 42K`
-- [OpenBot](https://openalternative.co/openbot) - Run a team of AI agents together on your desktop `Other` `⭐ 5.8K`
+- [OpenBot](https://openalternative.co/openbot) - Run a team of AI agents together on your desktop `Other` `⭐ 6K`
 - [OpenClaw](https://openalternative.co/openclaw) - An AI assistant that acts, not just answers `MIT` `⭐ 394K`
 - [Orama](https://openalternative.co/orama) - Full-text & vector search at the edge. `⭐ 11K`
 - [Pearl](https://openalternative.co/pearl) - AI-powered automation that lives in your Slack workspace `Apache-2.0` `⭐ 1.1K`
 - [Pipeshub](https://openalternative.co/pipeshub) - Enterprise workplace AI with data you own and control `Apache-2.0` `⭐ 4K`
 - [Prismical](https://openalternative.co/prismical) - Transcribe meetings and voice notes with local AI, no bots required `MIT` `⭐ 129`
-- [Rakazo](https://openalternative.co/rakazo) - Self-hosted AI agents that do real work on your machine `Apache-2.0` `⭐ 7.2K`
+- [Rakazo](https://openalternative.co/rakazo) - Self-hosted AI agents that do real work on your machine `Apache-2.0` `⭐ 7.3K`
 - [Scira](https://openalternative.co/scira) - Minimalistic AI-powered search engine for instant answers `AGPL-3.0` `⭐ 12K`
 - [screenpipe ](https://openalternative.co/screenpipe) - 24/7 screen and audio recorder with AI memory search `Other` `⭐ 22K`
 - [Skyvern](https://openalternative.co/skyvern) - Automate any website workflow with AI and computer vision `AGPL-3.0` `⭐ 23K`
 - [Steel](https://openalternative.co/steel) - Cloud browser sessions for AI agents and web automation `Apache-2.0` `⭐ 7.9K`
 - [SurfSense](https://openalternative.co/surfsense) - Privacy-first knowledge base with any AI model you choose `Apache-2.0` `⭐ 17K`
-- [Swirl Search](https://openalternative.co/swirl) - Get instant answers from your company knowledge `Apache-2.0` `⭐ 3.1K`
+- [Swirl Search](https://openalternative.co/swirl) - Get instant answers from your company knowledge `Apache-2.0` `⭐ 3K`
 - [Typebot](https://openalternative.co/typebot) - Create powerful chatbots without coding `⭐ 11K`
 - [ZeroClaw](https://openalternative.co/zeroclaw) - Self-hosted AI agent with 70+ providers and 30+ channels `Apache-2.0` `⭐ 33K`
 - [Zola](https://openalternative.co/zola) - AI chat companion with versatile model support `Apache-2.0` `⭐ 1.5K`
@@ -261,7 +260,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [AppFlowy](https://openalternative.co/appflowy) - AI workspace for docs, projects, and wikis you control `AGPL-3.0` `⭐ 78K`
 - [Colanode](https://openalternative.co/colanode) - Self-hosted team workspace with chat, docs, and databases `Apache-2.0` `⭐ 5.2K`
 - [Donetick](https://openalternative.co/donetick) - Smart task management for individuals and families `AGPL-3.0` `⭐ 2.7K`
-- [Ever Teams](https://openalternative.co/ever-teams) - Real-time work and project management platform `AGPL-3.0` `⭐ 602`
+- [Ever Teams](https://openalternative.co/ever-teams) - Real-time work and project management platform `AGPL-3.0` `⭐ 603`
 - [Fizzy](https://openalternative.co/fizzy) - Modern kanban that's fast, fun, and refreshingly simple `⭐ 8.3K`
 - [GitLab](https://openalternative.co/gitlab) - AI-powered DevSecOps for faster, secure software delivery `MIT` `⭐ 25K`
 - [Huly](https://openalternative.co/huly) - All-in-one workspace for project, chat, and docs `EPL-2.0` `⭐ 28K`
@@ -273,19 +272,19 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Manage](https://openalternative.co/manage) - Self-hostable project management for tasks, events and docs `AGPL-3.0` `⭐ 71`
 - [Mimrai](https://openalternative.co/mimrai) - AI-powered task management with radical focus `AGPL-3.0` `⭐ 25`
 - [OpenProject](https://openalternative.co/openproject) - Classic, agile, or hybrid project management, self-hosted `GPL-3.0` `⭐ 17K`
-- [Operately](https://openalternative.co/operately) - Open source company management for high-performance startups `Apache-2.0` `⭐ 617`
+- [Operately](https://openalternative.co/operately) - Open source company management for high-performance startups `Apache-2.0` `⭐ 618`
 - [Orgnise](https://openalternative.co/orgnise) - Effortlessly manage tasks, projects, and teams `AGPL-3.0` `⭐ 246`
 - [Plane](https://openalternative.co/plane) - Project management for teams and AI agents `AGPL-3.0` `⭐ 62K`
 - [Planka](https://openalternative.co/planka) - Self-hosted Kanban board with real-time collaboration `⭐ 13K`
 - [Redmine](https://openalternative.co/redmine) - Flexible project management you can host yourself `GPL-2.0` `⭐ 6.1K`
 - [Sayr](https://openalternative.co/sayr) - Bridge internal workflows with public collaboration `⭐ 31`
 - [Shelve](https://openalternative.co/shelve) - Simplify project management for developers `Apache-2.0` `⭐ 462`
-- [ShipShipShip](https://openalternative.co/shipshipship) - Open-source changelog & roadmap platform for teams `Apache-2.0` `⭐ 301`
+- [ShipShipShip](https://openalternative.co/shipshipship) - Open-source changelog & roadmap platform for teams `Apache-2.0` `⭐ 302`
 - [Super Productivity](https://openalternative.co/super-productivity) - Task manager with time tracking, focus mode, and deep work tools `MIT` `⭐ 23K`
 - [Taiga](https://openalternative.co/taiga) - Agile project management for cross-functional teams `MPL-2.0` `⭐ 858`
 - [Vikunja](https://openalternative.co/vikunja) - Organize, collaborate, and conquer your tasks `AGPL-3.0` `⭐ 6K`
 - [Wekan](https://openalternative.co/wekan) - Visual project management with complete data control `MIT` `⭐ 21K`
-- [Windshift](https://openalternative.co/windshift) - Self-hosted project management with boards and test tracking `AGPL-3.0` `⭐ 406`
+- [Windshift](https://openalternative.co/windshift) - Self-hosted project management with boards and test tracking `AGPL-3.0` `⭐ 409`
 - [Worklenz](https://openalternative.co/worklenz) - Open source agency management tool for streamlined success `AGPL-3.0` `⭐ 3.3K`
 
 ### Customer Support & Success
@@ -300,7 +299,8 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Frappe Helpdesk](https://openalternative.co/frappe-helpdesk) - Open-source ticketing system for streamlined support `AGPL-3.0` `⭐ 3.5K`
 - [Freescout](https://openalternative.co/freescout) - Open-source helpdesk for seamless customer support `AGPL-3.0` `⭐ 4.6K`
 - [LogChimp](https://openalternative.co/logchimp) - Open-source feedback management for product teams `Apache-2.0` `⭐ 1.1K`
-- [Reflet](https://openalternative.co/reflet) - Turn user feedback into features that matter `SSPL-1.0` `⭐ 40`
+- [Quackback](https://openalternative.co/quackback) - Open-source feedback boards, roadmaps and changelogs `AGPL-3.0` `⭐ 342`
+- [Reflet](https://openalternative.co/reflet) - Turn user feedback into features that matter `SSPL-1.0` `⭐ 41`
 - [SAMA](https://openalternative.co/sama) - Secure, scalable chat server for modern applications `GPL-3.0` `⭐ 161`
 - [Sayr](https://openalternative.co/sayr) - Bridge internal workflows with public collaboration `⭐ 31`
 - [Tiledesk](https://openalternative.co/tiledesk) - No-code platform to build AI agents and automate support `MIT` `⭐ 15`
@@ -325,17 +325,17 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - **[Novu](https://openalternative.co/novu)** - Multi-channel notification infrastructure for apps `⭐ 40K`
 - **[OpenSEO](https://openalternative.co/openseo)** - Self-hosted SEO platform for keyword, backlink, and rank tracking `MIT` `⭐ 27K`
 - **[Postiz](https://openalternative.co/postiz)** - Schedule, analyze, and manage 30+ social media accounts `AGPL-3.0` `⭐ 41K`
-- [Ansvisor](https://openalternative.co/ansvisor) - Track and improve your brand's visibility in AI search `MIT` `⭐ 231`
+- [Ansvisor](https://openalternative.co/ansvisor) - Track and improve your brand's visibility in AI search `MIT` `⭐ 232`
 - [Billion Mail](https://openalternative.co/billion-mail) - Open-source mail server with unlimited sending & AI tools `AGPL-3.0` `⭐ 16K`
 - [Brace.to](https://openalternative.co/brace-to) - Securely save and access your favorite links across devices `MIT` `⭐ 107`
 - [Canonry](https://openalternative.co/canonry) - Track and improve your brand's visibility in AI answers `MIT` `⭐ 198`
 - [Chaskiq](https://openalternative.co/chaskiq) - Open-source customer communication platform `⭐ 3.6K`
 - [Chatwoot](https://openalternative.co/chatwoot) - Omnichannel customer support with a built-in AI assistant `MIT` `⭐ 39K`
-- [Contentport](https://openalternative.co/contentport) - Your content engine for growing on Twitter at scale `AGPL-3.0` `⭐ 772`
+- [Contentport](https://openalternative.co/contentport) - Your content engine for growing on Twitter at scale `AGPL-3.0` `⭐ 773`
 - [Cossistant](https://openalternative.co/cossistant) - AI-native support infrastructure for modern SaaS `AGPL-3.0` `⭐ 739`
 - [Dittofeed](https://openalternative.co/dittofeed) - Open-source customer engagement platform for automation `MIT` `⭐ 3K`
 - [Dub Links](https://openalternative.co/dub-links) - Branded short links with analytics and conversion tracking `AGPL-3.0` `⭐ 25K`
-- [Elmo](https://openalternative.co/elmo) - Self-hosted AI visibility tracking for your brand `MIT` `⭐ 570`
+- [Elmo](https://openalternative.co/elmo) - Self-hosted AI visibility tracking for your brand `MIT` `⭐ 573`
 - [Erxes](https://openalternative.co/erxes) - Open-source growth platform for customer-centric teams `AGPL-3.0` `⭐ 4.1K`
 - [Fonoster](https://openalternative.co/fonoster) - Open-source cloud communications platform for developers `MIT` `⭐ 8.2K`
 - [Frappe Helpdesk](https://openalternative.co/frappe-helpdesk) - Open-source ticketing system for streamlined support `AGPL-3.0` `⭐ 3.5K`
@@ -355,14 +355,14 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Mixpost](https://openalternative.co/mixpost) - Self-hosted social media management without limits `MIT` `⭐ 3.9K`
 - [Notifuse](https://openalternative.co/notifuse) - Self-hosted email platform with visual editor & analytics `AGPL-3.0` `⭐ 2.3K`
 - [Notra](https://openalternative.co/notra) - Track your brand's visibility across AI answer engines `AGPL-3.0` `⭐ 270`
-- [OneGlanse](https://openalternative.co/oneglanse) - Track your brand's presence in AI-generated answers `MIT` `⭐ 250`
+- [OneGlanse](https://openalternative.co/oneglanse) - Track your brand's presence in AI-generated answers `MIT` `⭐ 251`
 - [Plunk](https://openalternative.co/plunk) - The open-source, affordable email platform `AGPL-3.0` `⭐ 5.6K`
 - [Sendportal](https://openalternative.co/sendportal) - Self-hosted email marketing with unlimited everything `MIT` `⭐ 2.2K`
 - [Shlink](https://openalternative.co/shlink) - The definitive self-hosted URL shortener `MIT` `⭐ 5.4K`
 - [Sink](https://openalternative.co/sink) - Simple, speedy, and secure link shortener with analytics `AGPL-3.0` `⭐ 7.3K`
 - [Slugy](https://openalternative.co/slugy) - Transform long URLs into beautiful, trackable short links `MIT` `⭐ 95`
 - [Tiledesk](https://openalternative.co/tiledesk) - No-code platform to build AI agents and automate support `MIT` `⭐ 15`
-- [TryPost](https://openalternative.co/trypost) - Schedule posts to every major social network, self-hosted `AGPL-3.0` `⭐ 819`
+- [TryPost](https://openalternative.co/trypost) - Schedule posts to every major social network, self-hosted `AGPL-3.0` `⭐ 823`
 - [useSend](https://openalternative.co/usesend) - Pay per email sent, not for contact storage `AGPL-3.0` `⭐ 4.8K`
 - [WR.DO](https://openalternative.co/wr-do) - Free DNS management and URL shortening platform `MIT` `⭐ 2.3K`
 - [Wraps](https://openalternative.co/wraps) - Code-first email platform that deploys to your AWS `AGPL-3.0` `⭐ 66`
@@ -372,16 +372,6 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 
 - [Anki](https://openalternative.co/anki) - Spaced repetition flashcards that remember for you `⭐ 33K`
 
-### Forms & Surveys
-
-- [Formbricks](https://openalternative.co/formbricks) - Privacy-first survey and experience management platform `AGPL-3.0` `⭐ 13K`
-- [Formizee](https://openalternative.co/formizee) - Create and manage forms with ease `Apache-2.0` `⭐ 185`
-- [HeyForm](https://openalternative.co/heyform) - Create powerful forms with ease and flexibility `AGPL-3.0` `⭐ 9.1K`
-- [Ikiform](https://openalternative.co/ikiform) - Create stunning forms with AI-powered builder and analytics `MIT` `⭐ 355`
-- [LimeSurvey](https://openalternative.co/limesurvey) - Create engaging surveys and gather valuable insights `⭐ 3.8K`
-- [OpnForm](https://openalternative.co/opnform) - Create powerful forms with ease and flexibility `AGPL-3.0` `⭐ 4K`
-- [Palform](https://openalternative.co/palform) - Secure, encrypted forms with advanced features `AGPL-3.0` `⭐ 49`
-
 ### Scheduling & Event Management
 
 - [Cal.com](https://openalternative.co/cal-com) - Self-host your own scheduling page, no vendor required `MIT` `⭐ 50K`
@@ -389,11 +379,21 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Easy!Appointments](https://openalternative.co/easy-appointments) - Free open-source appointment booking for any business `GPL-3.0` `⭐ 4.5K`
 - [Hi.Events](https://openalternative.co/hi-events) - Effortlessly manage events and sell tickets online `⭐ 4.1K`
 - [Pretix](https://openalternative.co/pretix) - Sell tickets for events, conferences, and exhibitions `⭐ 2.6K`
-- [Rallly](https://openalternative.co/rallly) - Effortless group scheduling for seamless collaboration `AGPL-3.0` `⭐ 5.3K`
+- [Rallly](https://openalternative.co/rallly) - Effortless group scheduling for seamless collaboration `AGPL-3.0` `⭐ 5.4K`
+
+### Forms & Surveys
+
+- [Formbricks](https://openalternative.co/formbricks) - Privacy-first survey and experience management platform `AGPL-3.0` `⭐ 13K`
+- [Formizee](https://openalternative.co/formizee) - Create and manage forms with ease `Apache-2.0` `⭐ 184`
+- [HeyForm](https://openalternative.co/heyform) - Create powerful forms with ease and flexibility `AGPL-3.0` `⭐ 9.1K`
+- [Ikiform](https://openalternative.co/ikiform) - Create stunning forms with AI-powered builder and analytics `MIT` `⭐ 355`
+- [LimeSurvey](https://openalternative.co/limesurvey) - Create engaging surveys and gather valuable insights `⭐ 3.8K`
+- [OpnForm](https://openalternative.co/opnform) - Create powerful forms with ease and flexibility `AGPL-3.0` `⭐ 4K`
+- [Palform](https://openalternative.co/palform) - Secure, encrypted forms with advanced features `AGPL-3.0` `⭐ 49`
 
 ### Compliance & Risk Management
 
-- **[Openlane](https://openalternative.co/openlane)** - Continuous compliance automation for SOC 2, ISO 27001 & more `Apache-2.0` `⭐ 336`
+- **[Openlane](https://openalternative.co/openlane)** - Continuous compliance automation for SOC 2, ISO 27001 & more `Apache-2.0` `⭐ 337`
 - **[Probo](https://openalternative.co/probo)** - Managed compliance for SOC 2, ISO 27001, HIPAA, and more `MIT` `⭐ 1.5K`
 - [Ballerine](https://openalternative.co/ballerine) - AI agents that transform merchant risk decisions at scale `⭐ 2.5K`
 - [c15t](https://openalternative.co/c15t) - Build privacy-compliant cookie banners with full control `Apache-2.0` `⭐ 2K`
@@ -423,16 +423,16 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - **[Baserow](https://openalternative.co/baserow)** - No-code database and app builder you can self-host `MIT` `⭐ 6.3K`
 - **[Macro Chat](https://openalternative.co/macro-chat)** - Team chat with email, tasks, and docs in one workspace `AGPL-3.0` `⭐ 6.2K`
 - [Affine](https://openalternative.co/affine) - Docs, whiteboards, and databases in one privacy-first workspace `MIT` `⭐ 74K`
-- [Busabase](https://openalternative.co/busabase) - A verified workspace where AI agents store and build knowledge `MIT` `⭐ 711`
+- [Busabase](https://openalternative.co/busabase) - A verified workspace where AI agents store and build knowledge `MIT` `⭐ 722`
 - [Buzz](https://openalternative.co/buzz) - Team chat, project management, and AI agents in one place `Apache-2.0` `⭐ 37K`
 - [Campfire](https://openalternative.co/campfire) - Self-hosted group chat without recurring subscription fees `MIT` `⭐ 4.8K`
 - [Cinny](https://openalternative.co/cinny) - Secure and elegant Matrix client for seamless conversations `AGPL-3.0` `⭐ 4K`
 - [Colanode](https://openalternative.co/colanode) - Self-hosted team workspace with chat, docs, and databases `Apache-2.0` `⭐ 5.2K`
-- [dDocs](https://openalternative.co/ddocs) - End-to-end encrypted collaborative document editor `AGPL-3.0` `⭐ 467`
+- [dDocs](https://openalternative.co/ddocs) - End-to-end encrypted collaborative document editor `AGPL-3.0` `⭐ 468`
 - [Docs](https://openalternative.co/docs) - Create, edit and share documents with real-time collaboration `MIT` `⭐ 17K`
 - [Element](https://openalternative.co/element) - Secure, decentralized messaging for teams and individuals `AGPL-3.0` `⭐ 14K`
 - [Ethora](https://openalternative.co/ethora) - Messaging SDK with AI agents for web, iOS, and Android `Apache-2.0` `⭐ 552`
-- [Ever Teams](https://openalternative.co/ever-teams) - Real-time work and project management platform `AGPL-3.0` `⭐ 602`
+- [Ever Teams](https://openalternative.co/ever-teams) - Real-time work and project management platform `AGPL-3.0` `⭐ 603`
 - [Excalidraw](https://openalternative.co/excalidraw) - Collaborative whiteboard with a hand-drawn aesthetic `MIT` `⭐ 135K`
 - [Fluxer](https://openalternative.co/fluxer) - Open source messaging with privacy and community focus `AGPL-3.0` `⭐ 11K`
 - [Hazel](https://openalternative.co/hazel) - Team chat with native GitHub and Linear integrations `FSL-1.1-ALv2` `⭐ 733`
@@ -486,7 +486,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Polar](https://openalternative.co/polar) - Modern payment infrastructure for digital products and SaaS `Apache-2.0` `⭐ 10K`
 - [Spliit](https://openalternative.co/spliit) - Effortlessly split expenses with friends and roommates `MIT` `⭐ 3K`
 - [Suprascribe](https://openalternative.co/suprascribe) - Automatically discover hidden subscriptions from your inbox `AGPL-3.0` `⭐ 11`
-- [UniBee](https://openalternative.co/unibee) - Cut billing costs with open-source subscription management `AGPL-3.0` `⭐ 234`
+- [UniBee](https://openalternative.co/unibee) - Cut billing costs with open-source subscription management `AGPL-3.0` `⭐ 235`
 
 ### CRM & Sales
 
@@ -494,7 +494,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - **[Macro CRM](https://openalternative.co/macro-crm)** - A self-building CRM powered by your email `AGPL-3.0` `⭐ 6.2K`
 - [Atomic CRM](https://openalternative.co/atomic-crm) - Open-source CRM toolkit for personalized solutions `MIT` `⭐ 1.4K`
 - [Erxes](https://openalternative.co/erxes) - Open-source growth platform for customer-centric teams `AGPL-3.0` `⭐ 4.1K`
-- [EspoCRM](https://openalternative.co/espocrm) - Complete customer relationship management made simple `AGPL-3.0` `⭐ 3.5K`
+- [EspoCRM](https://openalternative.co/espocrm) - Complete customer relationship management made simple `AGPL-3.0` `⭐ 3.6K`
 - [Ever Gauzy](https://openalternative.co/ever-gauzy) - Comprehensive open-source business management platform `AGPL-3.0` `⭐ 8.7K`
 - [Frappe CRM](https://openalternative.co/frappe-crm) - Open-source CRM that puts simplicity and control first `AGPL-3.0` `⭐ 3.9K`
 - [Krayin](https://openalternative.co/krayin) - Self-hosted CRM for enhanced business relationships `MIT` `⭐ 24K`
@@ -503,7 +503,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Open Mercato](https://openalternative.co/open-mercato) - AI-native CRM/ERP foundation with 80% already built `MIT` `⭐ 1.9K`
 - [Relaticle](https://openalternative.co/relaticle) - Self-hosted CRM with built-in AI chat and agent tools `AGPL-3.0` `⭐ 1.8K`
 - [Twenty](https://openalternative.co/twenty) - Build a custom CRM without the proprietary lock-in `AGPL-3.0` `⭐ 61K`
-- [Warpdrive](https://openalternative.co/warpdrive) - Self-hosted CRM for business development teams `MIT` `⭐ 541`
+- [Warpdrive](https://openalternative.co/warpdrive) - Self-hosted CRM for business development teams `MIT` `⭐ 569`
 
 ### ERP & Operations
 
@@ -531,7 +531,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Discourse](https://openalternative.co/discourse) - Cultivate vibrant online communities with ease `GPL-2.0` `⭐ 48K`
 - [Flarum](https://openalternative.co/flarum) - Modern forum software for vibrant online communities `MIT` `⭐ 16K`
 - [LearnHouse](https://openalternative.co/learnhouse) - Create, sell, and manage online courses with full control `AGPL-3.0` `⭐ 2.5K`
-- [Storyden](https://openalternative.co/storyden) - Build lasting communities with modern forum technology `MPL-2.0` `⭐ 346`
+- [Storyden](https://openalternative.co/storyden) - Build lasting communities with modern forum technology `MPL-2.0` `⭐ 347`
 
 ## Content & Publishing
 
@@ -543,7 +543,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Fumadocs](https://openalternative.co/fumadocs) - Build beautiful documentation sites with Next.js `MIT` `⭐ 14K`
 - [Outline](https://openalternative.co/outline) - Fast, collaborative wiki for teams who need organized docs `BUSL-1.1` `⭐ 41K`
 - [Scalar](https://openalternative.co/scalar) - Open-source API documentation and testing platform `MIT` `⭐ 16K`
-- [Storyden](https://openalternative.co/storyden) - Build lasting communities with modern forum technology `MPL-2.0` `⭐ 346`
+- [Storyden](https://openalternative.co/storyden) - Build lasting communities with modern forum technology `MPL-2.0` `⭐ 347`
 - [Typemill](https://openalternative.co/typemill) - Open-source CMS for text-driven websites `MIT` `⭐ 620`
 - [Vrite](https://openalternative.co/vrite) - Collaborative content creation for technical teams `AGPL-3.0` `⭐ 2K`
 - [XWiki](https://openalternative.co/xwiki) - Open-source knowledge management and collaboration platform `LGPL-2.1` `⭐ 1.3K`
@@ -566,7 +566,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Openinary](https://openalternative.co/openinary) - Self-hostable image and video delivery with URL transforms `AGPL-3.0` `⭐ 426`
 - [Phrasea](https://openalternative.co/phrasea) - Self-hosted DAM with fast search and asset workflows `MIT` `⭐ 26`
 - [Piwigo](https://openalternative.co/piwigo) - Organize thousands of photos with ease `GPL-2.0` `⭐ 3.9K`
-- [ResourceSpace](https://openalternative.co/resourcespace) - Organise, share, and control digital assets at scale `BSD-3-Clause` `⭐ 89`
+- [ResourceSpace](https://openalternative.co/resourcespace) - Organise, share, and control digital assets at scale `BSD-3-Clause` `⭐ 90`
 
 ### Publishing
 
@@ -575,14 +575,14 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Languine](https://openalternative.co/languine) - Automated localization for modern development teams `MIT` `⭐ 2K`
 - [LibreTranslate](https://openalternative.co/libretranslate) - Free offline machine translation API you can host yourself `AGPL-3.0` `⭐ 17K`
 - [Lingo.dev](https://openalternative.co/lingo) - Automated translations that scale with your code and commits `Apache-2.0` `⭐ 5.4K`
-- [ShipShipShip](https://openalternative.co/shipshipship) - Open-source changelog & roadmap platform for teams `Apache-2.0` `⭐ 301`
+- [ShipShipShip](https://openalternative.co/shipshipship) - Open-source changelog & roadmap platform for teams `Apache-2.0` `⭐ 302`
 - [Weblate](https://openalternative.co/weblate) - Continuous web-based localization for global reach `GPL-3.0` `⭐ 6.2K`
 
 ### Blogging & Personal Sites
 
 - [Ghost](https://openalternative.co/ghost) - Publishing platform for blogs, newsletters, and paid memberships `MIT` `⭐ 56K`
 - [Hyvor Blogs](https://openalternative.co/hyvor-blogs) - Blogging platform with built-in SEO, themes, and APIs `AGPL-3.0` `⭐ 25`
-- [Nonograph](https://openalternative.co/nonograph) - Anonymous publishing with no accounts, tracking, or logins `Unlicense` `⭐ 331`
+- [Nonograph](https://openalternative.co/nonograph) - Anonymous publishing with no accounts, tracking, or logins `Unlicense` `⭐ 332`
 - [Pagecord](https://openalternative.co/pagecord) - Personal blogging platform that meets you where you write `MIT` `⭐ 194`
 - [Publii](https://openalternative.co/publii) - Create privacy-first static websites with ease `GPL-3.0` `⭐ 7.4K`
 - [Sigle](https://openalternative.co/sigle) - Web3 writing platform for content creators and crypto enthusiasts `MIT` `⭐ 489`
@@ -597,7 +597,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Drupal](https://openalternative.co/drupal) - Build powerful websites with the open-source CMS `GPL-2.0` `⭐ 4.3K`
 - [Ghost](https://openalternative.co/ghost) - Publishing platform for blogs, newsletters, and paid memberships `MIT` `⭐ 56K`
 - [KeystoneJS](https://openalternative.co/keystonejs) - Flexible, scalable Node.js CMS and app framework `MIT` `⭐ 10K`
-- [Marble CMS](https://openalternative.co/marble-cms) - Simple content management for modern sites `AGPL-3.0` `⭐ 384`
+- [Marble CMS](https://openalternative.co/marble-cms) - Simple content management for modern sites `AGPL-3.0` `⭐ 385`
 - [Payload](https://openalternative.co/payload) - Headless CMS for developers, built with Node.js `MIT` `⭐ 46K`
 - [ProcessWire](https://openalternative.co/processwire) - Flexible CMS for developers, powerful for clients `⭐ 1.2K`
 - [Publii](https://openalternative.co/publii) - Create privacy-first static websites with ease `GPL-3.0` `⭐ 7.4K`
@@ -615,7 +615,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Apache Answer](https://openalternative.co/apache-answer) - Open-source Q&A platform for knowledge sharing `Apache-2.0` `⭐ 16K`
 - [Discourse](https://openalternative.co/discourse) - Cultivate vibrant online communities with ease `GPL-2.0` `⭐ 48K`
 - [Flarum](https://openalternative.co/flarum) - Modern forum software for vibrant online communities `MIT` `⭐ 16K`
-- [Storyden](https://openalternative.co/storyden) - Build lasting communities with modern forum technology `MPL-2.0` `⭐ 346`
+- [Storyden](https://openalternative.co/storyden) - Build lasting communities with modern forum technology `MPL-2.0` `⭐ 347`
 - [Valour](https://openalternative.co/valour) - Community-driven platform built for transparency `AGPL-3.0` `⭐ 400`
 
 ## Data & Analytics
@@ -642,7 +642,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Tianji](https://openalternative.co/tianji) - Website analytics, uptime monitoring, and server status in one `Apache-2.0` `⭐ 3.1K`
 - [Trench](https://openalternative.co/trench) - Fast, scalable analytics infrastructure `MIT` `⭐ 1.7K`
 - [Umami](https://openalternative.co/umami) - Empower your website with privacy-focused analytics `MIT` `⭐ 40K`
-- [Vemetric](https://openalternative.co/vemetric) - Simple, powerful web & product analytics for user insights `AGPL-3.0` `⭐ 397`
+- [Vemetric](https://openalternative.co/vemetric) - Simple, powerful web & product analytics for user insights `AGPL-3.0` `⭐ 398`
 
 ### Data Extraction & Web Scraping
 
@@ -720,10 +720,10 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [NHost](https://openalternative.co/nhost) - Serverless backend platform for modern app development `MIT` `⭐ 9.4K`
 - [Nitric](https://openalternative.co/nitric) - Cloud-native framework for infrastructure from code `Apache-2.0` `⭐ 2K`
 - [NocoBase](https://openalternative.co/nocobase) - Build custom apps without code, deploy with ease `⭐ 25K`
-- [Rivet](https://openalternative.co/rivet) - Build stateful backends with in-memory actors `Apache-2.0` `⭐ 6.6K`
+- [Rivet](https://openalternative.co/rivet) - Build stateful backends with in-memory actors `Apache-2.0` `⭐ 6.8K`
 - [Semaphore](https://openalternative.co/semaphore) - Open source CI/CD platform that's faster and costs less `⭐ 1.6K`
-- [Stormkit](https://openalternative.co/stormkit) - Deploy web apps with automated CI/CD and full infrastructure control `GPL-3.0` `⭐ 266`
-- [Temps](https://openalternative.co/temps) - One self-hosted binary replaces Vercel, Sentry, and analytics tools `Apache-2.0` `⭐ 901`
+- [Stormkit](https://openalternative.co/stormkit) - Deploy web apps with automated CI/CD and full infrastructure control `GPL-3.0` `⭐ 267`
+- [Temps](https://openalternative.co/temps) - One self-hosted binary replaces Vercel, Sentry, and analytics tools `Apache-2.0` `⭐ 903`
 - [Windmill](https://openalternative.co/windmill) - Open-source workflow automation for developers `⭐ 18K`
 - [Woodpecker CI](https://openalternative.co/woodpecker-ci) - Simple yet powerful CI/CD engine with great extensibility `Apache-2.0` `⭐ 8.1K`
 - [ZaneOps](https://openalternative.co/zaneops) - Self-hosted PaaS for rapid app and database deployment `MIT` `⭐ 1.4K`
@@ -759,7 +759,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Directus](https://openalternative.co/directus) - Open-source data platform for effortless content management `⭐ 39K`
 - [Encore](https://openalternative.co/encore) - Accelerate backend development with effortless scalability `MPL-2.0` `⭐ 13K`
 - [Frappe Builder](https://openalternative.co/frappe-builder) - Visual website builder for effortless web design `MIT` `⭐ 2.5K`
-- [Giselle](https://openalternative.co/giselle) - Build and deploy AI agents through visual workflows `Apache-2.0` `⭐ 559`
+- [Giselle](https://openalternative.co/giselle) - Build and deploy AI agents through visual workflows `Apache-2.0` `⭐ 560`
 - [GoRules](https://openalternative.co/gorules) - Business rules engine with AI, visual flows, and audit trails `MIT` `⭐ 2.1K`
 - [Grida](https://openalternative.co/grida) - Open canvas for designing and building web apps `Apache-2.0` `⭐ 2.7K`
 - [Grist](https://openalternative.co/grist) - Flexible spreadsheets with database power `Apache-2.0` `⭐ 12K`
@@ -780,14 +780,14 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Onlook](https://openalternative.co/onlook) - Visual React editor with real-time code updates `Apache-2.0` `⭐ 27K`
 - [OpnForm](https://openalternative.co/opnform) - Create powerful forms with ease and flexibility `AGPL-3.0` `⭐ 4K`
 - [Palform](https://openalternative.co/palform) - Secure, encrypted forms with advanced features `AGPL-3.0` `⭐ 49`
-- [Plasmic](https://openalternative.co/plasmic) - Visual app builder that integrates with your existing codebase `MIT` `⭐ 7.1K`
+- [Plasmic](https://openalternative.co/plasmic) - Visual app builder that integrates with your existing codebase `MIT` `⭐ 7.2K`
 - [ProcessWire](https://openalternative.co/processwire) - Flexible CMS for developers, powerful for clients `⭐ 1.2K`
 - [Proxed AI](https://openalternative.co/proxed-ai) - Secure AI API management for iOS apps with DeviceCheck `AGPL-3.0` `⭐ 9`
 - [Refine](https://openalternative.co/refine) - Build data-rich React apps with ease and flexibility `MIT` `⭐ 36K`
 - [Reflex](https://openalternative.co/reflex) - Full-stack Python platform for web apps and internal tools `Apache-2.0` `⭐ 29K`
 - [Rowy](https://openalternative.co/rowy) - Build powerful backends without leaving your browser `Apache-2.0` `⭐ 6.8K`
 - [Silex](https://openalternative.co/silex) - Free, open-source visual website builder for designers `AGPL-3.0` `⭐ 3K`
-- [Structr](https://openalternative.co/structr) - Build complete web apps with integrated graph database `⭐ 828`
+- [Structr](https://openalternative.co/structr) - Build complete web apps with integrated graph database `⭐ 829`
 - [Supabase](https://openalternative.co/supabase) - Postgres-powered backend platform for production apps `Apache-2.0` `⭐ 115K`
 - [Teable](https://openalternative.co/teable) - Flexible database meets intuitive spreadsheet interface `AGPL-3.0` `⭐ 22K`
 - [TipTap](https://openalternative.co/tiptap) - Craft rich text experiences with ease `MIT` `⭐ 39K`
@@ -806,7 +806,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Chapar](https://openalternative.co/chapar) - Fast, secure, offline API client for REST and gRPC `BSD-3-Clause` `⭐ 729`
 - [Firecamp](https://openalternative.co/firecamp) - Unified API development ecosystem for modern teams `AGPL-3.0` `⭐ 2.6K`
 - [Fusio](https://openalternative.co/fusio) - API management platform for developers and AI agents `Apache-2.0` `⭐ 2.1K`
-- [Gravitee](https://openalternative.co/gravitee) - Unified API, event, and AI agent management platform `Apache-2.0` `⭐ 468`
+- [Gravitee](https://openalternative.co/gravitee) - Unified API, event, and AI agent management platform `Apache-2.0` `⭐ 469`
 - [Hive](https://openalternative.co/hive) - Open-source GraphQL federation platform `MIT` `⭐ 482`
 - [Hoppscotch](https://openalternative.co/hoppscotch) - Sleek, intuitive API development and testing platform `MIT` `⭐ 81K`
 - [HTTPie](https://openalternative.co/httpie) - Modern command-line HTTP client for the API era `BSD-3-Clause` `⭐ 4.1K`
@@ -823,8 +823,8 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 
 ### Testing & Quality Assurance
 
-- [Argos](https://openalternative.co/argos) - Visual regression testing for seamless UI development `MIT` `⭐ 656`
-- [Floci](https://openalternative.co/floci) - Local AWS emulator with no account, gates, or paid tiers `MIT` `⭐ 30K`
+- [Argos](https://openalternative.co/argos) - Visual regression testing for seamless UI development `MIT` `⭐ 657`
+- [Floci](https://openalternative.co/floci) - Local AWS emulator with no account, gates, or paid tiers `MIT` `⭐ 31K`
 - [Hercules](https://openalternative.co/hercules) - Open-source testing agent for UI, API, security, accessibility & visual QA `AGPL-3.0` `⭐ 1.2K`
 - [Keploy](https://openalternative.co/keploy) - Turn production traffic into regression tests, no code changes `Apache-2.0` `⭐ 19K`
 - [MiniStack](https://openalternative.co/ministack) - Run 60+ AWS services locally, free forever `MIT` `⭐ 5.1K`
@@ -833,6 +833,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 
 - **[It's a Plan](https://openalternative.co/its-a-plan)** - Issue tracker where people and AI agents share one board `AGPL-3.0` `⭐ 2.2K`
 - [Aider](https://openalternative.co/aider) - AI pair programmer that works inside your terminal `Apache-2.0` `⭐ 50K`
+- [bb](https://openalternative.co/bb) - An agentic IDE that can control and automate itself `MIT` `⭐ 4.9K`
 - [Cline](https://openalternative.co/cline) - Open-source AI coding agent for your editor and terminal `Apache-2.0` `⭐ 71K`
 - [Codex CLI](https://openalternative.co/codex-cli) - AI coding agent that works inside your terminal `Apache-2.0` `⭐ 133K`
 - [Continue](https://openalternative.co/continue) - Open-source coding agent for your IDE and terminal `Apache-2.0` `⭐ 36K`
@@ -851,17 +852,18 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Open Interpreter](https://openalternative.co/open-interpreter) - Coding agent that runs on local and open-weight models `Apache-2.0` `⭐ 69K`
 - [OpenCode](https://openalternative.co/opencode) - AI coding agent for terminal, IDE, and desktop `MIT` `⭐ 225K`
 - [OpenHands](https://openalternative.co/openhands) - Autonomous coding agents that complete real engineering tasks `MIT` `⭐ 93K`
-- [Orca](https://openalternative.co/orca) - Run multiple AI coding agents in parallel, side by side `MIT` `⭐ 117K`
-- [Paperclip](https://openalternative.co/paperclip) - Org chart, budgets, and governance for AI agent teams `MIT` `⭐ 111K`
+- [Orca](https://openalternative.co/orca) - Run multiple AI coding agents in parallel, side by side `MIT` `⭐ 118K`
+- [Orchestrator.inc](https://openalternative.co/orchestrator-inc) - Run a fleet of coding agents across branches and PRs `Apache-2.0` `⭐ 14K`
+- [Paperclip](https://openalternative.co/paperclip) - Org chart, budgets, and governance for AI agent teams `MIT` `⭐ 112K`
 - [Paradev](https://openalternative.co/paradev) - Run dozens of AI coding agents in parallel on your machine `MIT` `⭐ 16K`
 - [Paseo](https://openalternative.co/paseo) - Run coding agents from your phone, desktop, or terminal `Apache-2.0` `⭐ 23K`
 - [pi](https://openalternative.co/pi) - Minimal terminal coding agent you can fully customize `MIT` `⭐ 120K`
 - [Pullfrog](https://openalternative.co/pullfrog) - AI agent workflows built natively into GitHub `MIT` `⭐ 1.4K`
 - [Qwen Code](https://openalternative.co/qwen-code) - Open source AI coding agent for the terminal and IDE `Apache-2.0` `⭐ 29K`
-- [Roomote](https://openalternative.co/roomote) - Self-hosted AI coding agent that opens real PRs `FCL-1.0` `⭐ 326`
+- [Roomote](https://openalternative.co/roomote) - Self-hosted AI coding agent that opens real PRs `FCL-1.0` `⭐ 328`
 - [SWE-agent](https://openalternative.co/swe-agent) - AI agents that autonomously fix code and resolve GitHub issues `MIT` `⭐ 21K`
 - [Synara](https://openalternative.co/synara) - Code with Claude, Codex, Gemini, and more in one workspace `MIT` `⭐ 2.2K`
-- [T3 Code](https://openalternative.co/t3-code) - AI-powered coding made simple and efficient `MIT` `⭐ 48K`
+- [T3 Code](https://openalternative.co/t3-code) - AI-powered coding made simple and efficient `MIT` `⭐ 49K`
 - [Tabby](https://openalternative.co/tabby) - AI-powered code completion for seamless development `Apache-2.0` `⭐ 34K`
 - [Zero](https://openalternative.co/zero) - Terminal coding agent with full model and data control `MIT` `⭐ 1.8K`
 
@@ -899,7 +901,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Vvveb CMS](https://openalternative.co/vvveb-cms) - Open source CMS with powerful drag-and-drop builder `AGPL-3.0` `⭐ 1.3K`
 - [WebStudio](https://openalternative.co/webstudio) - Visual web development with code-level control `AGPL-3.0` `⭐ 9.1K`
 - [WordPress](https://openalternative.co/wordpress) - Create, customize, and manage your website with ease `⭐ 22K`
-- [Ycode](https://openalternative.co/ycode) - Visual website builder and CMS you can self-host `MIT` `⭐ 337`
+- [Ycode](https://openalternative.co/ycode) - Visual website builder and CMS you can self-host `MIT` `⭐ 336`
 
 ### IDEs & Code Editors
 
@@ -923,7 +925,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [OpenStack](https://openalternative.co/openstack) - Open source cloud infrastructure trusted at massive scale `Apache-2.0` `⭐ 6.1K`
 - [OpenTofu](https://openalternative.co/opentofu) - Open source infrastructure as code tool `MPL-2.0` `⭐ 31K`
 - [Pulumi](https://openalternative.co/pulumi) - Infrastructure as code in your favorite language `Apache-2.0` `⭐ 26K`
-- [Superphenix](https://openalternative.co/superphenix) - Run a full IaaS, PaaS and SaaS cloud on your own servers `Apache-2.0` `⭐ 127`
+- [Superphenix](https://openalternative.co/superphenix) - Run a full IaaS, PaaS and SaaS cloud on your own servers `Apache-2.0` `⭐ 129`
 - [Terrateam](https://openalternative.co/terrateam) - GitOps orchestration for infrastructure as code `MPL-2.0` `⭐ 1.3K`
 - [Ubicloud](https://openalternative.co/ubicloud) - Open source cloud platform for bare metal providers `AGPL-3.0` `⭐ 12K`
 
@@ -938,15 +940,15 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Laranode](https://openalternative.co/laranode) - Free open-source control panel for VPS and dedicated servers `MIT` `⭐ 751`
 - [OpenPanel](https://openalternative.co/openpanel-co) - Simplify server management with an intuitive interface `MIT` `⭐ 768`
 - [Refine](https://openalternative.co/refine) - Build data-rich React apps with ease and flexibility `MIT` `⭐ 36K`
-- [Superphenix](https://openalternative.co/superphenix) - Run a full IaaS, PaaS and SaaS cloud on your own servers `Apache-2.0` `⭐ 127`
-- [Temps](https://openalternative.co/temps) - One self-hosted binary replaces Vercel, Sentry, and analytics tools `Apache-2.0` `⭐ 901`
+- [Superphenix](https://openalternative.co/superphenix) - Run a full IaaS, PaaS and SaaS cloud on your own servers `Apache-2.0` `⭐ 129`
+- [Temps](https://openalternative.co/temps) - One self-hosted binary replaces Vercel, Sentry, and analytics tools `Apache-2.0` `⭐ 903`
 - [YunoHost](https://openalternative.co/yunohost) - Self-host your digital life with ease `AGPL-3.0` `⭐ 3K`
 
 ### Orchestration & Scheduling
 
 - [1Panel](https://openalternative.co/1panel) - Manage Linux servers with ease through a modern web interface `GPL-3.0` `⭐ 37K`
 - [Bacalhau](https://openalternative.co/bacalhau) - Revolutionizing data processing with Compute Over Data `Apache-2.0` `⭐ 876`
-- [Dagu](https://openalternative.co/dagu) - YAML-defined workflow orchestration, no database required `GPL-3.0` `⭐ 4.5K`
+- [Dagu](https://openalternative.co/dagu) - YAML-defined workflow orchestration, no database required `GPL-3.0` `⭐ 4.6K`
 - [Dyrector](https://openalternative.co/dyrector) - Simplify container deployment across environments `Apache-2.0` `⭐ 1.8K`
 - [Hatchet](https://openalternative.co/hatchet) - Distributed task queue for background jobs and workflows `MIT` `⭐ 8.2K`
 - [Healthchecks](https://openalternative.co/healthchecks) - Get alerted when cron jobs and scheduled tasks miss their run `BSD-3-Clause` `⭐ 11K`
@@ -960,7 +962,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 ### Backup & Recovery
 
 - [Plakar](https://openalternative.co/plakar) - Encrypted, queryable backups for engineers who value time `ISC` `⭐ 2.1K`
-- [Pluton](https://openalternative.co/pluton) - Self-hosted encrypted backups with 70+ cloud storage options `Apache-2.0` `⭐ 873`
+- [Pluton](https://openalternative.co/pluton) - Self-hosted encrypted backups with 70+ cloud storage options `Apache-2.0` `⭐ 874`
 
 ### Search Engines
 
@@ -975,7 +977,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 
 ### Storage Solutions
 
-- [Alarik](https://openalternative.co/alarik) - S3-compatible object storage built with Swift `Apache-2.0` `⭐ 579`
+- [Alarik](https://openalternative.co/alarik) - S3-compatible object storage built with Swift `Apache-2.0` `⭐ 580`
 - [Ceph](https://openalternative.co/ceph) - Scalable open-source distributed storage system `⭐ 17K`
 - [Filestash](https://openalternative.co/filestash) - Unified file management for your enterprise storage `AGPL-3.0` `⭐ 15K`
 - [Firefiles](https://openalternative.co/firefiles) - Bring your own cloud storage, managed in one place `AGPL-3.0` `⭐ 370`
@@ -1013,7 +1015,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Highlight](https://openalternative.co/highlight) - Real-time observability for modern web applications `Apache-2.0` `⭐ 9.4K`
 - [HyperDX](https://openalternative.co/hyperdx) - Full-stack observability without the enterprise price tag `MIT` `⭐ 10K`
 - [Icinga](https://openalternative.co/icinga) - Open source monitoring for complex IT infrastructure `GPL-3.0` `⭐ 2.2K`
-- [Keep](https://openalternative.co/keep) - Unify, automate, and elevate your monitoring workflow `MIT` `⭐ 12K`
+- [Keep](https://openalternative.co/keep) - Unify, automate, and elevate your monitoring workflow `MIT` `⭐ 13K`
 - [Kener](https://openalternative.co/kener) - Deploy a professional status page in minutes, no coding required `MIT` `⭐ 5.2K`
 - [Logfire](https://openalternative.co/logfire) - Powerful observability made simple for developers `MIT` `⭐ 4.5K`
 - [Logstash](https://openalternative.co/logstash) - Centralize, transform, and stash your data `⭐ 15K`
@@ -1030,12 +1032,12 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Scanopy](https://openalternative.co/scanopy) - Auto-generated network diagrams that stay current `AGPL-3.0` `⭐ 5.9K`
 - [Sentry](https://openalternative.co/sentry) - Real-time error tracking and performance monitoring `⭐ 46K`
 - [SigNoz](https://openalternative.co/signoz) - Open-source observability platform for cloud-native apps `MIT` `⭐ 33K`
-- [Statusnook](https://openalternative.co/statusnook) - Monitor, manage, and communicate service status effortlessly `MIT` `⭐ 988`
+- [Statusnook](https://openalternative.co/statusnook) - Monitor, manage, and communicate service status effortlessly `MIT` `⭐ 989`
 - [StatusScout](https://openalternative.co/statusscout) - Complete website health monitoring and security scanning `⭐ 16`
-- [Temps](https://openalternative.co/temps) - One self-hosted binary replaces Vercel, Sentry, and analytics tools `Apache-2.0` `⭐ 901`
+- [Temps](https://openalternative.co/temps) - One self-hosted binary replaces Vercel, Sentry, and analytics tools `Apache-2.0` `⭐ 903`
 - [Tianji](https://openalternative.co/tianji) - Website analytics, uptime monitoring, and server status in one `Apache-2.0` `⭐ 3.1K`
 - [Uptime Kuma](https://openalternative.co/uptime-kuma) - Self-hosted uptime monitoring with a clean dashboard `MIT` `⭐ 93K`
-- [Uptimepage](https://openalternative.co/uptimepage) - Monitors websites and APIs, pages on-call, and publishes a status page `AGPL-3.0` `⭐ 52`
+- [Uptimepage](https://openalternative.co/uptimepage) - Monitors websites and APIs, pages on-call, and publishes a status page `AGPL-3.0` `⭐ 53`
 - [Uptrace](https://openalternative.co/uptrace) - Open source observability platform for modern applications `AGPL-3.0` `⭐ 4.3K`
 - [Vector](https://openalternative.co/vector) - Collect, transform, and route logs and metrics in one tool `MPL-2.0` `⭐ 23K`
 - [VictoriaMetrics](https://openalternative.co/victoriametrics) - High-performance time series database for metrics and logs `Apache-2.0` `⭐ 18K`
@@ -1052,7 +1054,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [SAMA](https://openalternative.co/sama) - Secure, scalable chat server for modern applications `GPL-3.0` `⭐ 161`
 - [Soketi](https://openalternative.co/soketi) - Next-gen WebSockets server for real-time apps `AGPL-3.0` `⭐ 5.6K`
 - [Tailscale](https://openalternative.co/tailscale) - Zero-config VPN with WireGuard for secure networking `BSD-3-Clause` `⭐ 39K`
-- [WireGuard](https://openalternative.co/wireguard) - Fast, minimal VPN built on modern cryptography `GPL-2.0` `⭐ 737`
+- [WireGuard](https://openalternative.co/wireguard) - Fast, minimal VPN built on modern cryptography `GPL-2.0` `⭐ 738`
 
 ### Databases
 
@@ -1081,7 +1083,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [InfluxDB](https://openalternative.co/influxdb) - Purpose-built time series database for real-time systems `Apache-2.0` `⭐ 32K`
 - [Instant](https://openalternative.co/instant) - Realtime client-side database for collaborative apps `Apache-2.0` `⭐ 11K`
 - [Mathesar](https://openalternative.co/mathesar) - Spreadsheet-like interface for PostgreSQL databases `GPL-3.0` `⭐ 5.2K`
-- [Memgraph](https://openalternative.co/memgraph) - High-performance graph computing for scalable data analysis `⭐ 4.6K`
+- [Memgraph](https://openalternative.co/memgraph) - High-performance graph computing for scalable data analysis `⭐ 4.7K`
 - [Milvus](https://openalternative.co/milvus) - High-performance vector database for GenAI applications `Apache-2.0` `⭐ 47K`
 - [Neon Postgres](https://openalternative.co/neon-postgres) - Serverless Postgres for modern applications `Apache-2.0` `⭐ 23K`
 - [NocoDB](https://openalternative.co/nocodb) - Transform databases into intuitive spreadsheets instantly `AGPL-3.0` `⭐ 65K`
@@ -1111,10 +1113,10 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 ### Finance & Fintech
 
 - [0 Finance](https://openalternative.co/0-finance) - Transform idle cash into competitive yield for startups `MIT` `⭐ 256`
-- [alphai-tui](https://openalternative.co/alphai-tui) - Live stock quotes, charts, and AI-scored news in your terminal `MIT` `⭐ 90`
+- [alphai-tui](https://openalternative.co/alphai-tui) - Live stock quotes, charts, and AI-scored news in your terminal `MIT` `⭐ 91`
 - [Ballerine](https://openalternative.co/ballerine) - AI agents that transform merchant risk decisions at scale `⭐ 2.5K`
 - [Crater](https://openalternative.co/crater) - AI-powered embedded AR/AP automation for platforms `AGPL-3.0` `⭐ 8.4K`
-- [Fincept Terminal ](https://openalternative.co/fincept-terminal) - Open-source financial terminal for data-driven insights `AGPL-3.0` `⭐ 33K`
+- [Fincept Terminal ](https://openalternative.co/fincept-terminal) - Open-source financial terminal for data-driven insights `AGPL-3.0` `⭐ 34K`
 - [Formance](https://openalternative.co/formance) - Open source financial infrastructure for modern businesses `MIT` `⭐ 533`
 - [Hummingbot](https://openalternative.co/hummingbot) - Open-source crypto trading bot for market making `Apache-2.0` `⭐ 21K`
 - [Hyperswitch](https://openalternative.co/hyperswitch) - Open source payment orchestrator for global transactions `Apache-2.0` `⭐ 46K`
@@ -1122,7 +1124,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 
 ### Gaming
 
-- [GDevelop](https://openalternative.co/gdevelop) - Create 2D and 3D games without coding, powered by AI assistance `⭐ 28K`
+- [GDevelop](https://openalternative.co/gdevelop) - Create 2D and 3D games without coding, powered by AI assistance `⭐ 29K`
 - [Godot](https://openalternative.co/godot) - Free 2D and 3D game engine for cross-platform projects `MIT` `⭐ 120K`
 - [MonoGame](https://openalternative.co/monogame) - Free, open-source framework for cross-platform game development `⭐ 15K`
 - [s&box](https://openalternative.co/sbox) - Build and play games inside a game engine that runs live `MIT` `⭐ 6.5K`
@@ -1161,7 +1163,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Krita](https://openalternative.co/krita) - Professional digital painting made accessible to everyone `GPL-3.0` `⭐ 11K`
 - [LosslessCut](https://openalternative.co/losslesscut) - Cut and trim video without re-encoding or quality loss `GPL-2.0` `⭐ 46K`
 - [OpenCut](https://openalternative.co/opencut) - Open source video editor that runs in your browser `MIT` `⭐ 97K`
-- [OpenShot](https://openalternative.co/openshot) - Free, cross-platform video editor that's easy to learn `GPL-3.0` `⭐ 6.7K`
+- [OpenShot](https://openalternative.co/openshot) - Free, cross-platform video editor that's easy to learn `GPL-3.0` `⭐ 6.8K`
 - [RAWmakase](https://openalternative.co/rawmakase) - Lightroom-compatible RAW editor, no subscription `MIT` `⭐ 1.6K`
 - [RawTherapee](https://openalternative.co/rawtherapee) - Professional raw photo processing made free and powerful `GPL-3.0` `⭐ 4.3K`
 - [Shotcut](https://openalternative.co/shotcut) - A free, open source, cross-platform video editor `GPL-3.0` `⭐ 16K`
@@ -1172,9 +1174,9 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Graphite](https://openalternative.co/graphite) - Procedural vector editor that runs in your browser, no signup needed `Apache-2.0` `⭐ 28K`
 - [Grida](https://openalternative.co/grida) - Open canvas for designing and building web apps `Apache-2.0` `⭐ 2.7K`
 - [Inkscape](https://openalternative.co/inkscape) - Professional vector graphics editor for all skill levels `Other` `⭐ 4K`
-- [OpenPencil](https://openalternative.co/openpencil) - Design editor that opens Figma files, runs AI, and stays local `MIT` `⭐ 9.6K`
+- [OpenPencil](https://openalternative.co/openpencil) - Design editor that opens Figma files, runs AI, and stays local `MIT` `⭐ 9.7K`
 - [Penpot](https://openalternative.co/penpot) - Open-source UI design and prototyping for product teams `MPL-2.0` `⭐ 62K`
-- [Plasmic](https://openalternative.co/plasmic) - Visual app builder that integrates with your existing codebase `MIT` `⭐ 7.1K`
+- [Plasmic](https://openalternative.co/plasmic) - Visual app builder that integrates with your existing codebase `MIT` `⭐ 7.2K`
 - [Quant-UX](https://openalternative.co/quant-ux) - Design, prototype, and test user experiences with ease `GPL-3.0` `⭐ 2.8K`
 
 ## Productivity & Utilities
@@ -1190,38 +1192,18 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 ### Time & Task Management
 
 - [ActivityWatch](https://openalternative.co/activitywatch) - Track time automatically with privacy-first design `MPL-2.0` `⭐ 20K`
-- [Ever Teams](https://openalternative.co/ever-teams) - Real-time work and project management platform `AGPL-3.0` `⭐ 602`
+- [Ever Teams](https://openalternative.co/ever-teams) - Real-time work and project management platform `AGPL-3.0` `⭐ 603`
 - [Freeter](https://openalternative.co/freeter) - Your personal workspace organizer for maximum productivity `GPL-3.0` `⭐ 1K`
 - [Hackatime](https://openalternative.co/hackatime) - Track coding time across 70+ editors, completely free `MIT` `⭐ 216`
 - [Kimai](https://openalternative.co/kimai) - Effortless time tracking for teams and projects `AGPL-3.0` `⭐ 5.1K`
 - [Sol](https://openalternative.co/sol) - Fast and beautiful launcher for quick access to apps and tools `MIT` `⭐ 3.2K`
 - [SolidTime](https://openalternative.co/solidtime) - Effortless time tracking for open source projects `AGPL-3.0` `⭐ 9.1K`
 - [Super Productivity](https://openalternative.co/super-productivity) - Task manager with time tracking, focus mode, and deep work tools `MIT` `⭐ 23K`
-- [TimeScribe](https://openalternative.co/timescribe) - Transform your time tracking into actionable insights `GPL-3.0` `⭐ 932`
+- [TimeScribe](https://openalternative.co/timescribe) - Transform your time tracking into actionable insights `GPL-3.0` `⭐ 933`
 - [TimeTracker](https://openalternative.co/timetracker) - Self-hosted time tracking with complete data control `GPL-3.0` `⭐ 638`
 - [Ueli](https://openalternative.co/ueli) - Quick access to apps and files with keyboard shortcuts `MIT` `⭐ 4.6K`
 - [Wakapi](https://openalternative.co/wakapi) - Track coding time effortlessly, gain insights instantly `MIT` `⭐ 4.5K`
 - [Ziit](https://openalternative.co/ziit) - Track coding time and boost developer productivity `AGPL-3.0` `⭐ 258`
-
-### Email & Communication
-
-- **[Macro Mail](https://openalternative.co/macro-mail)** - Keyboard-first email client with AI, chat, and tasks `AGPL-3.0` `⭐ 6.2K`
-- **[Novu](https://openalternative.co/novu)** - Multi-channel notification infrastructure for apps `⭐ 40K`
-- [Billion Mail](https://openalternative.co/billion-mail) - Open-source mail server with unlimited sending & AI tools `AGPL-3.0` `⭐ 16K`
-- [Hyvor Relay](https://openalternative.co/hyvor-relay) - Open-source email API with enterprise deliverability `AGPL-3.0` `⭐ 921`
-- [Inbox Zero](https://openalternative.co/inboxzero) - AI email assistant that automates, organizes, and declutters `AGPL-3.0` `⭐ 13K`
-- [Mailspring](https://openalternative.co/mailspring) - Native desktop email with tracking, templates, and dark mode `GPL-3.0` `⭐ 18K`
-- [Ntfy](https://openalternative.co/ntfy) - Simple, fast, and secure push notifications for all `Apache-2.0` `⭐ 35K`
-- [Plunk](https://openalternative.co/plunk) - The open-source, affordable email platform `AGPL-3.0` `⭐ 5.6K`
-- [Postal](https://openalternative.co/postal) - Self-hosted mail delivery platform for sending and receiving email `MIT` `⭐ 17K`
-- [Roundcube](https://openalternative.co/roundcube) - Browser-based IMAP webmail with a full email client feel `GPL-3.0` `⭐ 7.3K`
-- [Sessy](https://openalternative.co/sessy) - Own your SES email analytics, from send to inbox `⭐ 945`
-- [Thunderbird for Android](https://openalternative.co/thunderbird-for-android) - Privacy-first email app for Android, no ads ever `Apache-2.0` `⭐ 14K`
-- [Tuta](https://openalternative.co/tuta) - Secure email, calendar and contacts with end-to-end encryption `GPL-3.0` `⭐ 8.1K`
-- [Twake Mail](https://openalternative.co/twake-mail) - Secure open source email with advanced encryption & AI `AGPL-3.0` `⭐ 666`
-- [UnInbox](https://openalternative.co/uninbox) - Transform team email into efficient collaborative workflows `AGPL-3.0` `⭐ 1.8K`
-- [useSend](https://openalternative.co/usesend) - Pay per email sent, not for contact storage `AGPL-3.0` `⭐ 4.8K`
-- [Wraps](https://openalternative.co/wraps) - Code-first email platform that deploys to your AWS `AGPL-3.0` `⭐ 66`
 
 ### Browsers & Extensions
 
@@ -1244,6 +1226,26 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Zen](https://openalternative.co/zen-privacy) - System-wide ad-blocking and privacy protection, no extensions needed `MIT` `⭐ 4.4K`
 - [Zen Browser](https://openalternative.co/zen-browser) - Privacy-focused browser with powerful customization `MPL-2.0` `⭐ 46K`
 
+### Email & Communication
+
+- **[Macro Mail](https://openalternative.co/macro-mail)** - Keyboard-first email client with AI, chat, and tasks `AGPL-3.0` `⭐ 6.2K`
+- **[Novu](https://openalternative.co/novu)** - Multi-channel notification infrastructure for apps `⭐ 40K`
+- [Billion Mail](https://openalternative.co/billion-mail) - Open-source mail server with unlimited sending & AI tools `AGPL-3.0` `⭐ 16K`
+- [Hyvor Relay](https://openalternative.co/hyvor-relay) - Open-source email API with enterprise deliverability `AGPL-3.0` `⭐ 921`
+- [Inbox Zero](https://openalternative.co/inboxzero) - AI email assistant that automates, organizes, and declutters `AGPL-3.0` `⭐ 13K`
+- [Mailspring](https://openalternative.co/mailspring) - Native desktop email with tracking, templates, and dark mode `GPL-3.0` `⭐ 18K`
+- [Ntfy](https://openalternative.co/ntfy) - Simple, fast, and secure push notifications for all `Apache-2.0` `⭐ 35K`
+- [Plunk](https://openalternative.co/plunk) - The open-source, affordable email platform `AGPL-3.0` `⭐ 5.6K`
+- [Postal](https://openalternative.co/postal) - Self-hosted mail delivery platform for sending and receiving email `MIT` `⭐ 17K`
+- [Roundcube](https://openalternative.co/roundcube) - Browser-based IMAP webmail with a full email client feel `GPL-3.0` `⭐ 7.3K`
+- [Sessy](https://openalternative.co/sessy) - Own your SES email analytics, from send to inbox `⭐ 945`
+- [Thunderbird for Android](https://openalternative.co/thunderbird-for-android) - Privacy-first email app for Android, no ads ever `Apache-2.0` `⭐ 14K`
+- [Tuta](https://openalternative.co/tuta) - Secure email, calendar and contacts with end-to-end encryption `GPL-3.0` `⭐ 8.1K`
+- [Twake Mail](https://openalternative.co/twake-mail) - Secure open source email with advanced encryption & AI `AGPL-3.0` `⭐ 666`
+- [UnInbox](https://openalternative.co/uninbox) - Transform team email into efficient collaborative workflows `AGPL-3.0` `⭐ 1.8K`
+- [useSend](https://openalternative.co/usesend) - Pay per email sent, not for contact storage `AGPL-3.0` `⭐ 4.8K`
+- [Wraps](https://openalternative.co/wraps) - Code-first email platform that deploys to your AWS `AGPL-3.0` `⭐ 66`
+
 ### Bookmark & Content Management
 
 - [Bookmark It](https://openalternative.co/bookmark-it) - Organize, discover, and personalize your bookmarks `AGPL-3.0` `⭐ 327`
@@ -1258,7 +1260,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Ryot](https://openalternative.co/ryot) - Track your life, your way `GPL-3.0` `⭐ 3.7K`
 - [SeriesGuide](https://openalternative.co/seriesguide) - Track your TV shows and movies on Android `⭐ 2.2K`
 - [Showly](https://openalternative.co/showly) - Track TV shows and movies, synced with Trakt.tv `GPL-3.0` `⭐ 1.5K`
-- [Tonkatsu Box](https://openalternative.co/tonkatsu-box) - Track games, movies, anime, manga, and books in one place `MIT` `⭐ 601`
+- [Tonkatsu Box](https://openalternative.co/tonkatsu-box) - Track games, movies, anime, manga, and books in one place `MIT` `⭐ 602`
 - [Wallabag](https://openalternative.co/wallabag) - Save articles for later reading with complete privacy `MIT` `⭐ 13K`
 
 ### Password & Secret Management
@@ -1277,7 +1279,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 ### Screen Capture & Recording
 
 - [BlitzRecorder](https://openalternative.co/blitzrecorder) - Record screen and face, cut pauses, export 4K free `AGPL-3.0` `⭐ 54`
-- [Cap](https://openalternative.co/cap) - Screen recorder with instant sharing and a built-in editor `AGPL-3.0` `⭐ 24K`
+- [Cap](https://openalternative.co/cap) - Screen recorder with instant sharing and a built-in editor `AGPL-3.0` `⭐ 25K`
 - [Kap](https://openalternative.co/kap) - Effortless screen recording for macOS `MIT` `⭐ 19K`
 - [OBS Studio](https://openalternative.co/obs-studio) - Free, open-source software for video recording and live streaming `GPL-2.0` `⭐ 79K`
 - [Screenity](https://openalternative.co/screenity) - Free, private screen recording for Chrome `GPL-3.0` `⭐ 19K`
@@ -1289,7 +1291,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Cozy](https://openalternative.co/cozy) - Your secure French personal cloud for complete data control `AGPL-3.0` `⭐ 1.3K`
 - [Firefiles](https://openalternative.co/firefiles) - Bring your own cloud storage, managed in one place `AGPL-3.0` `⭐ 370`
 - [Hoodik](https://openalternative.co/hoodik) - Secure self-hosted cloud storage with end-to-end encryption `⭐ 1.5K`
-- [LocalSend](https://openalternative.co/localsend) - Share files securely across all devices without servers `Apache-2.0` `⭐ 97K`
+- [LocalSend](https://openalternative.co/localsend) - Share files securely across all devices without servers `Apache-2.0` `⭐ 98K`
 - [Nextcloud](https://openalternative.co/nextcloud) - Secure cloud collaboration platform for organizations `AGPL-3.0` `⭐ 37K`
 - [OpenCloud](https://openalternative.co/opencloud) - Self-hosted file sharing built for digital sovereignty `Apache-2.0` `⭐ 6.3K`
 - [ownCloud](https://openalternative.co/owncloud) - Enterprise file sync, share, and collaboration platform `Apache-2.0` `⭐ 2.2K`
@@ -1332,7 +1334,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 
 - [Actual](https://openalternative.co/actual) - Local-first envelope budgeting with full data ownership `MIT` `⭐ 30K`
 - [ezBookkeeping](https://openalternative.co/ezbookkeeping) - Lightweight self-hosted bookkeeping with AI receipt scanning `MIT` `⭐ 6K`
-- [Fincept Terminal ](https://openalternative.co/fincept-terminal) - Open-source financial terminal for data-driven insights `AGPL-3.0` `⭐ 33K`
+- [Fincept Terminal ](https://openalternative.co/fincept-terminal) - Open-source financial terminal for data-driven insights `AGPL-3.0` `⭐ 34K`
 - [Firefly III](https://openalternative.co/firefly-iii) - Self-hosted personal finance manager with double-entry bookkeeping `AGPL-3.0` `⭐ 25K`
 - [Ghostfolio](https://openalternative.co/ghostfolio) - Track, analyze, and optimize your investments effortlessly `AGPL-3.0` `⭐ 9.7K`
 - [Monetr](https://openalternative.co/monetr) - Take control of your finances, paycheck by paycheck `FSL-1.1-MIT` `⭐ 691`
@@ -1348,10 +1350,10 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [Espanso](https://openalternative.co/espanso) - Type shortcuts, expand to full text instantly `GPL-3.0` `⭐ 15K`
 - [FluidVoice](https://openalternative.co/fluidvoice) - On-device voice dictation for macOS with adaptive AI `GPL-3.0` `⭐ 13K`
 - [Handy](https://openalternative.co/handy) - Press a key, speak, release. Text appears instantly. `MIT` `⭐ 38K`
-- [Jarvis](https://openalternative.co/jarvis) - Dictate faster and control your Mac with voice `MIT` `⭐ 672`
+- [Jarvis](https://openalternative.co/jarvis) - Dictate faster and control your Mac with voice `MIT` `⭐ 674`
 - [OpenWispr](https://openalternative.co/openwispr) - Voice-to-text that works offline, privately, on any app `MIT` `⭐ 11K`
-- [Typerelay](https://openalternative.co/typerelay) - Turn short shortcuts into your everyday words `AGPL-3.0` `⭐ 53`
-- [VoiceTypr](https://openalternative.co/voicetypr) - Offline voice dictation that types into any app `AGPL-3.0` `⭐ 741`
+- [Typerelay](https://openalternative.co/typerelay) - Turn short shortcuts into your everyday words `AGPL-3.0` `⭐ 50`
+- [VoiceTypr](https://openalternative.co/voicetypr) - Offline voice dictation that types into any app `AGPL-3.0` `⭐ 743`
 
 ### Note Taking & Knowledge Management
 
@@ -1414,7 +1416,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 - [HashiCorp Vault](https://openalternative.co/vault) - Secure storage and access control for secrets and sensitive data `⭐ 36K`
 - [Infisical](https://openalternative.co/infisical) - Secure secret management for modern development teams `MIT` `⭐ 30K`
 - [Keyshade](https://openalternative.co/keyshade) - Secure secret management with public key encryption `MIT` `⭐ 769`
-- [Phase](https://openalternative.co/phase) - Secure, deploy, and manage application secrets effortlessly `MIT` `⭐ 944`
+- [Phase](https://openalternative.co/phase) - Secure, deploy, and manage application secrets effortlessly `MIT` `⭐ 945`
 - [UnKey](https://openalternative.co/unkey) - Secure, scalable API key management for developers `AGPL-3.0` `⭐ 5.5K`
 
 ### Application Security
@@ -1461,7 +1463,7 @@ OpenAlternative is supported by these incredible partners and sponsors. [Become 
 
 ### Network Security
 
-- [Werbot](https://openalternative.co/werbot) - Secure, scalable server access management for DevOps `BUSL-1.1` `⭐ 170`
+- [Werbot](https://openalternative.co/werbot) - Secure, scalable server access management for DevOps `BUSL-1.1` `⭐ 169`
 
 ### Data Security & Privacy
 
@@ -1493,8 +1495,8 @@ Want to add a project? Submit it on [OpenAlternative](https://openalternative.co
 
 ## Footnotes
 
-- **Total Projects:** 850
+- **Total Projects:** 853
 - **Categories:** 85
 - **Total Stars:** 16M
-- **Last Updated:** November 6, 2026
+- **Last Updated:** November 7, 2026
 
